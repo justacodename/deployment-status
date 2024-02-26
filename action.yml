@@ -17,5 +17,5 @@ inputs:
   environment-url:
     description: 'URL for accessing your environment.'
 runs:
-  using: 'node16'
+  using: 'node20'
   main: 'index.js'
